@@ -1,15 +1,12 @@
-import dotenv from 'dotenv'
+import mongoose from 'mongoose';
 
-dotenv.config();
-const mongoose = require('mongoose');
 
 const connectWithMongoose = async () => {
     try {
-        await mongoose.connect('mongodb://localhost:27017/berg-stat', {useNewUrlParser: true});
-        const db = mongoose.connection;
+        await mongoose.connect(process.env.DATABASE_URL_DEV, { useNewUrlParser: true });
     } catch(error) {
         console.log(error)
     }
-}
+};
 
 export default connectWithMongoose

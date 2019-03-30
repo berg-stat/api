@@ -1,5 +1,6 @@
 import jwt from 'jsonwebtoken'
 import bcrypt from 'bcrypt'
+import mongoose from 'mongoose'
 
 
 const Auth = {
@@ -13,8 +14,7 @@ const Auth = {
     try {
       const tokenData = await jwt.verify(token, process.env.SECRET);
       const userId = tokenData.userId;
-      // TODO get user from db after importing mongo connection
-      const user = 'mockUser';
+      const user = await __fetchUserFromDb(userId);
       if(!user) {
         return res.status(403).json({
           message: 'Provided token is invalid.'
@@ -44,7 +44,17 @@ const Auth = {
   },
 
   __getToken(header) {
-    return header['authorization'].split("Bearer ")[1]
+    const maybeToken = header['authorization'];
+    if(!maybeToken.startsWith('Bearer ')) {
+      return null;
+    }
+
+    return maybeToken.split('Bearer ')[1].trim();
+  },
+
+  async __fetchUserFromDb(userId) {
+    const db = await mongoose.connect();
+    return db.findById(userId);
   },
 
 };

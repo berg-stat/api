@@ -1,7 +1,6 @@
-import connectWithMongoose from '../db'
+import mongoose from 'mongoose';
 
-connectWithMongoose();
-const mongoose = require('mongoose');
+
 const Schema = mongoose.Schema;
 
 const UserSchema = new Schema({
