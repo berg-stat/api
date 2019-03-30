@@ -1,4 +1,4 @@
-import User from '../model/UserModel.js'
+import User from '../models/UserModel.js'
 import Auth from './'
 
 const UsersService =
@@ -61,7 +61,7 @@ const UsersService =
   async deleteUser(id) {
     try {
       const user = await User.findByIdAndDelete(id);
-      return {message: 'Account successfully deleted'};
+      return { message: 'Account successfully deleted' };
     } catch (error) {
       console.log(error);
       return {error};
