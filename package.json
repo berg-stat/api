@@ -24,7 +24,8 @@
     "cors": "^2.8.5",
     "dotenv": "^7.0.0",
     "express": "^4.16.4",
-    "jsonwebtoken": "^8.5.1"
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.4.20"
   },
   "devDependencies": {
     "babel-core": "^6.26.3",
