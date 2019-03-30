@@ -1,0 +1,37 @@
+{
+  "name": "berg-stat-api",
+  "version": "1.0.0",
+  "description": "REST API for berg stat mobile app.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --require babel-register index.js",
+    "test": "./node_modules/.bin/mocha --require babel-register tests/*.js --exit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/berg-stat/api.git"
+  },
+  "author": "BergStat Inc.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/berg-stat/api/issues"
+  },
+  "homepage": "https://github.com/berg-stat/api#readme",
+  "dependencies": {
+    "@babel/polyfill": "^7.4.0",
+    "axios": "^0.18.0",
+    "bcrypt": "^3.0.5",
+    "cors": "^2.8.5",
+    "dotenv": "^7.0.0",
+    "express": "^4.16.4",
+    "jsonwebtoken": "^8.5.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-register": "^6.26.0",
+    "chai": "^4.2.0",
+    "mocha": "^6.0.2"
+  }
+}
