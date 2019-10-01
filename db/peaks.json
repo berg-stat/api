@@ -1,0 +1,420 @@
+{
+  "peaks": [
+    {
+      "name": "Rysy",
+      "coordinates": {
+        "latitude": 49.1794,
+        "longitude": 20.0881,
+        "elevation": 2503
+      }
+    },
+    {
+      "name": "Mięguszowiecki Szczyt",
+      "coordinates": {
+        "latitude": 49.187222,
+        "longitude": 20.06,
+        "elevation": 2438
+      }
+    },
+    {
+      "name": "Kasprowy Wierch",
+      "coordinates": {
+        "latitude": 49.231833,
+        "longitude": 19.981556,
+        "elevation": 1987
+      }
+    },
+    {
+      "name": "Świnica",
+      "coordinates": {
+        "latitude": 49.219417,
+        "longitude": 20.009306,
+        "elevation": 2301
+      }
+    },
+    {
+      "name": "Ciemniak",
+      "coordinates": {
+        "latitude": 49.230944,
+        "longitude": 19.903306,
+        "elevation": 2096
+      }
+    },
+    {
+      "name": "Krzesanica",
+      "coordinates": {
+        "latitude": 49.231694,
+        "longitude": 19.910222,
+        "elevation": 2122
+      }
+    },
+    {
+      "name": "Małołączniak",
+      "coordinates": {
+        "latitude": 49.235806,
+        "longitude": 19.919306,
+        "elevation": 2096
+      }
+    },
+    {
+      "name": "Kopa Kondracka",
+      "coordinates": {
+        "latitude": 49.2365,
+        "longitude": 19.932222,
+        "elevation": 2005
+      }
+    },
+    {
+      "name": "Mułowa Przełęcz",
+      "coordinates": {
+        "latitude": 49.231028,
+        "longitude": 19.905639,
+        "elevation": 2067
+      }
+    },
+    {
+      "name": "Litworowa Przełęcz",
+      "coordinates": {
+        "latitude": 49.23358,
+        "longitude": 19.915056,
+        "elevation": 2037
+      }
+    },
+    {
+      "name": "Małołącka Przełęcz",
+      "coordinates": {
+        "latitude": 49.235528,
+        "longitude": 19.928833,
+        "elevation": 1924
+      }
+    },
+    {
+      "name": "Wołowiec",
+      "coordinates": {
+        "latitude": 49.207778,
+        "longitude": 19.7625,
+        "elevation": 2064
+      }
+    },
+    {
+      "name": "Wielki Giewont",
+      "coordinates": {
+        "latitude": 49.250556,
+        "longitude": 19.933889,
+        "elevation": 1894
+      }
+    },
+    {
+      "name": "Mnich",
+      "coordinates": {
+        "latitude": 49.1925,
+        "longitude": 20.055,
+        "elevation": 2068
+      }
+    },
+    {
+      "name": "Kościelec",
+      "coordinates": {
+        "latitude": 49.225278,
+        "longitude": 20.014444,
+        "elevation": 2155
+      }
+    },
+    {
+      "name": "Kozi Wierch",
+      "coordinates": {
+        "latitude": 49.2183,
+        "longitude": 20.0286,
+        "elevation": 2291
+      }
+    },
+    {
+      "name": "Kominiarski Wierch",
+      "coordinates": {
+        "latitude": 49.240778,
+        "longitude": 19.835472,
+        "elevation": 1829
+      }
+    },
+    {
+      "name": "Gerlach",
+      "coordinates": {
+        "latitude": 49.164028,
+        "longitude": 20.134028,
+        "elevation": 2655
+      }
+    },
+    {
+      "name": "Łomnica",
+      "coordinates": {
+        "latitude": 49.195556,
+        "longitude": 20.2125,
+        "elevation": 2634
+      }
+    },
+    {
+      "name": "Krywań",
+      "coordinates": {
+        "latitude": 49.162778,
+        "longitude": 19.998889,
+        "elevation": 2494
+      }
+    },
+    {
+      "name": "Lodowy Szczyt",
+      "coordinates": {
+        "latitude": 49.198889,
+        "longitude": 20.182222,
+        "elevation": 2627
+      }
+    },
+    {
+      "name": "Sławkowski Szczyt",
+      "coordinates": {
+        "latitude": 49.166389,
+        "longitude": 20.183333,
+        "elevation": 2452
+      }
+    },
+    {
+      "name": "Hawrań",
+      "coordinates": {
+        "latitude": 49.248333,
+        "longitude": 20.1975,
+        "elevation": 2152
+      }
+    },
+    {
+      "name": "Bystra",
+      "coordinates": {
+        "latitude": 49.189194,
+        "longitude": 19.843194,
+        "elevation": 2248
+      }
+    },
+    {
+      "name": "Baraniec",
+      "coordinates": {
+        "latitude": 49.173333,
+        "longitude": 19.74075,
+        "elevation": 2185
+      }
+    },
+    {
+      "name": "Kamienista",
+      "coordinates": {
+        "latitude": 49.195444,
+        "longitude": 19.870639,
+        "elevation": 2127
+      }
+    },
+    {
+      "name": "Bobrowiec",
+      "coordinates": {
+        "latitude": 49.246056,
+        "longitude": 19.786139,
+        "elevation": 1663
+      }
+    },
+    {
+      "name": "Wysoka",
+      "coordinates": {
+        "latitude": 49.172778,
+        "longitude": 20.094306,
+        "elevation": 2547
+      }
+    },
+    {
+      "name": "Staroleśny Szczyt",
+      "coordinates": {
+        "latitude": 49.171111,
+        "longitude": 20.154444,
+        "elevation": 2476
+      }
+    },
+    {
+      "name": "Banówka",
+      "coordinates": {
+        "latitude": 49.197778,
+        "longitude": 19.710833,
+        "elevation": 2178
+      }
+    },
+    {
+      "name": "Raczkowa Czuba",
+      "coordinates": {
+        "latitude": 49.193556,
+        "longitude": 19.801389,
+        "elevation": 2194
+      }
+    },
+    {
+      "name": "Hruba Turnia",
+      "coordinates": {
+        "latitude": 49.181389,
+        "longitude": 20.130278,
+        "elevation": 2091
+      }
+    },
+    {
+      "name": "Hruby Wierch",
+      "coordinates": {
+        "latitude": 49.1675,
+        "longitude": 20.026944,
+        "elevation": 2428
+      }
+    },
+    {
+      "name": "Osobita",
+      "coordinates": {
+        "latitude": 49.261028,
+        "longitude": 19.719083,
+        "elevation": 1687
+      }
+    },
+    {
+      "name": "Szalony Wierch",
+      "coordinates": {
+        "latitude": 49.236667,
+        "longitude": 20.22,
+        "elevation": 2061
+      }
+    },
+    {
+      "name": "Siwy Wierch",
+      "coordinates": {
+        "latitude": 49.2115,
+        "longitude": 19.642028,
+        "elevation": 1805
+      }
+    },
+    {
+      "name": "Starorobociański Wierch",
+      "coordinates": {
+        "latitude": 49.199556,
+        "longitude": 19.819861,
+        "elevation": 2176
+      }
+    },
+    {
+      "name": "Kończysta",
+      "coordinates": {
+        "latitude": 49.157222,
+        "longitude": 20.114167,
+        "elevation": 2538
+      }
+    },
+    {
+      "name": "Zadnia Kopka",
+      "coordinates": {
+        "latitude": 49.260139,
+        "longitude": 19.859278,
+        "elevation": 1333
+      }
+    },
+    {
+      "name": "Miedziane",
+      "coordinates": {
+        "latitude": 49.201389,
+        "longitude": 20.048611,
+        "elevation": 2233
+      }
+    },
+    {
+      "name": "Szatan",
+      "coordinates": {
+        "latitude": 49.163889,
+        "longitude": 20.053611,
+        "elevation": 2421
+      }
+    },
+    {
+      "name": "Ganek",
+      "coordinates": {
+        "latitude": 49.174333,
+        "longitude": 20.103861,
+        "elevation": 2462
+      }
+    },
+    {
+      "name": "Tomanowy Wierch Polski",
+      "coordinates": {
+        "latitude": 49.213222,
+        "longitude": 19.902194,
+        "elevation": 1977
+      }
+    },
+    {
+      "name": "Wielka Kopa Koprowa",
+      "coordinates": {
+        "latitude": 49.200694,
+        "longitude": 19.973889,
+        "elevation": 2052
+      }
+    },
+    {
+      "name": "Tokarnia",
+      "coordinates": {
+        "latitude": 49.258611,
+        "longitude": 20.273889,
+        "elevation": 1219
+      }
+    },
+    {
+      "name": "Smreczyński Wierch",
+      "coordinates": {
+        "latitude": 49.204444,
+        "longitude": 19.881139,
+        "elevation": 2068
+      }
+    },
+    {
+      "name": "Hruby Regiel",
+      "coordinates": {
+        "latitude": 49.267778,
+        "longitude": 19.889444,
+        "elevation": 1339
+      }
+    },
+    {
+      "name": "Łysanki",
+      "coordinates": {
+        "latitude": 49.262222,
+        "longitude": 19.916111,
+        "elevation": 1445
+      }
+    },
+    {
+      "name": "Łopata",
+      "coordinates": {
+        "latitude": 49.205,
+        "longitude": 19.778611,
+        "elevation": 1957
+      }
+    },
+    {
+      "name": "Goryczkowa Czuba",
+      "coordinates": {
+        "latitude": 49.232444,
+        "longitude": 19.956778,
+        "elevation": 1913
+      }
+    },
+    {
+      "name": "Furkaska",
+      "coordinates": {
+        "latitude": 49.261667,
+        "longitude": 19.788806,
+        "elevation": 1491
+      }
+    },
+    {
+      "name": "Nosal",
+      "coordinates": {
+        "latitude": 49.276444,
+        "longitude": 19.989444,
+        "elevation": 1206
+      }
+    }
+  ]
+}
