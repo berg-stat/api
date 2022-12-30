@@ -31,6 +31,6 @@
     "babel-preset-stage-3": "^6.24.1",
     "babel-register": "^6.26.0",
     "chai": "^4.2.0",
-    "mocha": "^6.1.4"
+    "mocha": "^10.2.0"
   }
 }
